@@ -1,0 +1,9 @@
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/ProgramaSI.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/ProgramaSI_autogen_timestamp_deps.dir
+C:/Users/cferr/OneDrive/Escritorio/SI/Code/build-ProgramaSI-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/ProgramaSI_autogen.dir
